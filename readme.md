@@ -1,2 +1,2 @@
-gcc run_sh.c -o run_sh
+gcc run_sh.c -o run_sh /n
 ./run_sh
